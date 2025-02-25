@@ -36,9 +36,3 @@ This **Flask-based Machine Learning API** predicts house prices based on **locat
 ✅ **Real-time price predictions** with high accuracy.  
 ✅ **Efficient ML model with optimized data processing.**  
 ✅ **Successfully published on NICEDT**, showcasing AI-driven real estate insights.  
-
-🔗 **Live API & Project Details Available on NICEDT!**  
-📧 **Contact:** your.email@example.com  
-🔗 **GitHub:** [YourUsername](https://github.com/YourUsername)  
-
-🚀 **Ready for real-world applications!** 🎉
